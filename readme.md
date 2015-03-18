@@ -1,4 +1,4 @@
-# A simple completion engine
+## A simple completion engine
 
 Providing completion for text input is a typical use case for
 [tries](https://en.wikipedia.org/wiki/Trie). The implementation is extremely
